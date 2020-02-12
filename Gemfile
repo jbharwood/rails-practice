@@ -6,6 +6,7 @@ gem 'active_model_serializers'
 gem 'rack-cors'
 gem 'rspec-rails', '~> 4.0.0.beta'
 gem 'bcrypt', '~> 3.1.7'
+gem 'jwt'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '~> 6.0.2', '>= 6.0.2.1'
 # Use postgresql as the database for Active Record
